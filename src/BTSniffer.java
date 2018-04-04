@@ -36,8 +36,8 @@ public class BTSniffer {
     public static List<String> BtUrls = new ArrayList<String>();
 
     public static void main(String[] org0){
-        /*//String webUrl = "http://avlang8.com/thread-htm-fid-5.html";
-        String webUrl = "http://avlang8.com/read-htm-tid-839535.html";
+        /*//String webUrl = "";
+        String webUrl = "";
         try {
             recursion(webUrl);
         } catch (IOException e) {
